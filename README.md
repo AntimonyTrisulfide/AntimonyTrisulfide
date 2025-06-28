@@ -18,6 +18,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AntimonyTrisulfide&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
+##Top Langs
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AntimonyTrisulfide&size_weight=0&count_weight=1&layout=donut-vertical&hide=html,css&langs_count=20)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=AntimonyTrisulfide&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
